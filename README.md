@@ -3,6 +3,7 @@ The numerical analysis and supervised learning projects once stored privately on
 Links to these projects:
 
 https://github.com/RyanGitHub3/Numerical-Analysis.git
+
 https://github.com/RyanGitHub3/Stock_Price_Valuation_Model.git
 
 Thank You!
